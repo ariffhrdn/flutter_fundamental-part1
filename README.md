@@ -6,6 +6,15 @@ Langkah 1: Text Widget
 
 Langkah 2: Image Widget
 ![alt text](image-2.png)
+
+Praktimu 5: Langkah 1 dan 2
+![alt text](image-3.png)
+
+Praktikum 5: Langkah 3-5
+![alt text](image-4.png)
+
+Praktikum 5: Langkah 6
+![alt text](image-5.png)
 A new Flutter project.
 
 ## Getting Started
