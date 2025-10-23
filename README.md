@@ -1,5 +1,11 @@
 # hello_world
 ![alt text](image.png)
+
+Langkah 1: Text Widget
+![alt text](image-1.png)
+
+Langkah 2: Image Widget
+![alt text](image-2.png)
 A new Flutter project.
 
 ## Getting Started
